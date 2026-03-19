@@ -1,4 +1,4 @@
-# VS Code Shortcuts
+# VSCode Shortcuts
 
 ## **1. File & Tab Management**
 
