@@ -1,4 +1,4 @@
-# 📘 Complete Git Commands Cheat Sheet (with Word-by-Word Explanation)
+# 📘 Git Commands
 
 # 🔧 1. Git Configuration
 
